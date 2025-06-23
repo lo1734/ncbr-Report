@@ -12,7 +12,7 @@ for year in ["2021","2022"]:
     soup = BeautifulSoup(response.text, 'html.parser')
 
     # create folder to save a raw PDFs
-    os.makedirs(f"{year}", exist_ok=True)
+    os.makedirs(f"../raw/{year}", exist_ok=True)
 
     # find links that end with .pdf
     for link in soup.find_all('a', href=True):
@@ -27,8 +27,7 @@ for year in ["2021","2022"]:
 
                 print(f"Downloading {pdf_name}...")
                 pdf_response = requests.get(full_url)
-
-                with open(f"{year}/{pdf_name}", 'wb') as f:
+                with open(f"../raw/{year}/{pdf_name}", 'wb') as f:
                     f.write(pdf_response.content)
 
 
