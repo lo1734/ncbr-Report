@@ -22,16 +22,23 @@ cd ncbr_suicides_scraper
 ncbr_report/
 │
 ├── raw/                       # For storing downloaded PDFs
+|   |---2021/
+|   |---2022/
+|   |---Incidence_and_Rate_of_Suicides_yearly/
 ├── processed/                 # For cleaned CSVs
+|   |---processed_Incidence_and_Rate_of_Suicides_yearly
+|   |---camelot(extract tabels from pdfs).py
+|   |---Separate(state and UT).py
 ├── scraper/                   # Your Scrapy or BS4 spider code
 │   ├── __init__.py
-│   ├── pdf_scraper.py         # Main script for scraping PDFs
-│
+│   ├── BS4(2021&2022).py         # Main script for scraping PDFs
+│   |---BS4(Incidence&rate_of_sucides).py
+|
 ├── cleaner/                   # Data extraction and cleaning scripts
-│   ├
-│   ├── extract_tables.py      # Camelot logic to extract data
-│   ├── clean_data.py          # Logic to clean and standardize the tables
-│   |---CleanedData(Requirements).py
+│   ├---cleaned_data/
+│   ├── DataCleaning(Combined_clean).py    
+│   ├── DataCleaning(Tidy_Combined).py          
+│   |---DataCleaning(As_Per_Format_of_Final_Data).py
 │
 ├── requirements.txt           # Dependencies
 └── README.md                  # Instructions to run the project
