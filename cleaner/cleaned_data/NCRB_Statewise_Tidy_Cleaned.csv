@@ -1,0 +1,917 @@
+Year,State,Category,Value,Unit
+2016,ANDHRA PRADESH,Number of Suicides,6059.0,Persons
+2016,ARUNACHAL PRADESH,Number of Suicides,121.0,Persons
+2016,ASSAM,Number of Suicides,3023.0,Persons
+2016,BIHAR,Number of Suicides,411.0,Persons
+2016,CHHATTISGARH,Number of Suicides,6705.0,Persons
+2016,GOA,Number of Suicides,273.0,Persons
+2016,GUJARAT,Number of Suicides,7735.0,Persons
+2016,HARYANA,Number of Suicides,3665.0,Persons
+2016,HIMACHAL PRADESH,Number of Suicides,642.0,Persons
+2016,JAMMU & KASHMIR,Number of Suicides,329.0,Persons
+2016,JHARKHAND,Number of Suicides,1292.0,Persons
+2016,KARNATAKA,Number of Suicides,10687.0,Persons
+2016,KERALA,Number of Suicides,7705.0,Persons
+2016,MADHYA PRADESH,Number of Suicides,10442.0,Persons
+2016,MAHARASHTRA,Number of Suicides,17195.0,Persons
+2016,MANIPUR,Number of Suicides,37.0,Persons
+2016,MEGHALAYA,Number of Suicides,166.0,Persons
+2016,MIZORAM,Number of Suicides,124.0,Persons
+2016,NAGALAND,Number of Suicides,34.0,Persons
+2016,ODISHA,Number of Suicides,3904.0,Persons
+2016,PUNJAB,Number of Suicides,1440.0,Persons
+2016,RAJASTHAN,Number of Suicides,3678.0,Persons
+2016,SIKKIM,Number of Suicides,263.0,Persons
+2016,TAMIL NADU,Number of Suicides,15182.0,Persons
+2016,TELANGANA,Number of Suicides,9019.0,Persons
+2016,TRIPURA,Number of Suicides,677.0,Persons
+2016,UTTAR PRADESH,Number of Suicides,3518.0,Persons
+2016,UTTARAKHAND,Number of Suicides,152.0,Persons
+2016,WEST BENGAL,Number of Suicides,13451.0,Persons
+2015,ANDHRA PRADESH,Number of Suicides,6226.0,Persons
+2015,ARUNACHAL PRADESH,Number of Suicides,135.0,Persons
+2015,ASSAM,Number of Suicides,3231.0,Persons
+2015,BIHAR,Number of Suicides,516.0,Persons
+2015,CHHATTISGARH,Number of Suicides,7118.0,Persons
+2015,GOA,Number of Suicides,302.0,Persons
+2015,GUJARAT,Number of Suicides,7246.0,Persons
+2015,HARYANA,Number of Suicides,3545.0,Persons
+2015,HIMACHAL PRADESH,Number of Suicides,543.0,Persons
+2015,JAMMU & KASHMIR,Number of Suicides,372.0,Persons
+2015,JHARKHAND,Number of Suicides,835.0,Persons
+2015,KARNATAKA,Number of Suicides,10786.0,Persons
+2015,KERALA,Number of Suicides,7692.0,Persons
+2015,MADHYA PRADESH,Number of Suicides,10293.0,Persons
+2015,MAHARASHTRA,Number of Suicides,16970.0,Persons
+2015,MANIPUR,Number of Suicides,37.0,Persons
+2015,MEGHALAYA,Number of Suicides,172.0,Persons
+2015,MIZORAM,Number of Suicides,123.0,Persons
+2015,NAGALAND,Number of Suicides,21.0,Persons
+2015,ODISHA,Number of Suicides,4087.0,Persons
+2015,PUNJAB,Number of Suicides,1049.0,Persons
+2015,RAJASTHAN,Number of Suicides,3457.0,Persons
+2015,SIKKIM,Number of Suicides,241.0,Persons
+2015,TAMIL NADU,Number of Suicides,15777.0,Persons
+2015,TELANGANA,Number of Suicides,10140.0,Persons
+2015,TRIPURA,Number of Suicides,746.0,Persons
+2015,UTTAR PRADESH,Number of Suicides,3902.0,Persons
+2015,UTTARAKHAND,Number of Suicides,475.0,Persons
+2015,WEST BENGAL,Number of Suicides,14602.0,Persons
+2020,ANDHRA PRADESH,Number of Suicides,7043.0,Persons
+2020,ARUNACHAL PRADESH,Number of Suicides,160.0,Persons
+2020,ASSAM,Number of Suicides,3243.0,Persons
+2020,BIHAR,Number of Suicides,809.0,Persons
+2020,CHHATTISGARH,Number of Suicides,7710.0,Persons
+2020,GOA,Number of Suicides,308.0,Persons
+2020,GUJARAT,Number of Suicides,8050.0,Persons
+2020,HARYANA,Number of Suicides,4001.0,Persons
+2020,HIMACHAL PRADESH,Number of Suicides,857.0,Persons
+2020,JHARKHAND,Number of Suicides,2145.0,Persons
+2020,KARNATAKA,Number of Suicides,12259.0,Persons
+2020,KERALA,Number of Suicides,8500.0,Persons
+2020,MADHYA PRADESH,Number of Suicides,14578.0,Persons
+2020,MAHARASHTRA,Number of Suicides,19909.0,Persons
+2020,MANIPUR,Number of Suicides,44.0,Persons
+2020,MEGHALAYA,Number of Suicides,224.0,Persons
+2020,MIZORAM,Number of Suicides,108.0,Persons
+2020,NAGALAND,Number of Suicides,48.0,Persons
+2020,ODISHA,Number of Suicides,5546.0,Persons
+2020,PUNJAB,Number of Suicides,2616.0,Persons
+2020,RAJASTHAN,Number of Suicides,5658.0,Persons
+2020,SIKKIM,Number of Suicides,285.0,Persons
+2020,TAMIL NADU,Number of Suicides,16883.0,Persons
+2020,TELANGANA,Number of Suicides,8058.0,Persons
+2020,TRIPURA,Number of Suicides,845.0,Persons
+2020,UTTAR PRADESH,Number of Suicides,4804.0,Persons
+2020,UTTARAKHAND,Number of Suicides,943.0,Persons
+2020,WEST BENGAL,Number of Suicides,13103.0,Persons
+2019,ANDHRA PRADESH,Number of Suicides,6465.0,Persons
+2019,ARUNACHAL PRADESH,Number of Suicides,112.0,Persons
+2019,ASSAM,Number of Suicides,2370.0,Persons
+2019,BIHAR,Number of Suicides,641.0,Persons
+2019,CHHATTISGARH,Number of Suicides,7629.0,Persons
+2019,GOA,Number of Suicides,259.0,Persons
+2019,GUJARAT,Number of Suicides,7655.0,Persons
+2019,HARYANA,Number of Suicides,4191.0,Persons
+2019,HIMACHAL PRADESH,Number of Suicides,584.0,Persons
+2019,JAMMU & KASHMIR,Number of Suicides,284.0,Persons
+2019,JHARKHAND,Number of Suicides,1646.0,Persons
+2019,KARNATAKA,Number of Suicides,11288.0,Persons
+2019,KERALA,Number of Suicides,8556.0,Persons
+2019,MADHYA PRADESH,Number of Suicides,12457.0,Persons
+2019,MAHARASHTRA,Number of Suicides,18916.0,Persons
+2019,MANIPUR,Number of Suicides,58.0,Persons
+2019,MEGHALAYA,Number of Suicides,198.0,Persons
+2019,MIZORAM,Number of Suicides,70.0,Persons
+2019,NAGALAND,Number of Suicides,41.0,Persons
+2019,ODISHA,Number of Suicides,4582.0,Persons
+2019,PUNJAB,Number of Suicides,2357.0,Persons
+2019,RAJASTHAN,Number of Suicides,4531.0,Persons
+2019,SIKKIM,Number of Suicides,220.0,Persons
+2019,TAMIL NADU,Number of Suicides,13493.0,Persons
+2019,TELANGANA,Number of Suicides,7675.0,Persons
+2019,TRIPURA,Number of Suicides,728.0,Persons
+2019,UTTAR PRADESH,Number of Suicides,5464.0,Persons
+2019,UTTARAKHAND,Number of Suicides,516.0,Persons
+2019,WEST BENGAL,Number of Suicides,12665.0,Persons
+2017,ANDHRA PRADESH,Number of Suicides,5354.0,Persons
+2017,ARUNACHAL PRADESH,Number of Suicides,89.0,Persons
+2017,ASSAM,Number of Suicides,2276.0,Persons
+2017,BIHAR,Number of Suicides,388.0,Persons
+2017,CHHATTISGARH,Number of Suicides,6312.0,Persons
+2017,GOA,Number of Suicides,273.0,Persons
+2017,GUJARAT,Number of Suicides,7418.0,Persons
+2017,HARYANA,Number of Suicides,3387.0,Persons
+2017,HIMACHAL PRADESH,Number of Suicides,576.0,Persons
+2017,JAMMU & KASHMIR,Number of Suicides,287.0,Persons
+2017,JHARKHAND,Number of Suicides,1214.0,Persons
+2017,KARNATAKA,Number of Suicides,11716.0,Persons
+2017,KERALA,Number of Suicides,7870.0,Persons
+2017,MADHYA PRADESH,Number of Suicides,11770.0,Persons
+2017,MAHARASHTRA,Number of Suicides,17646.0,Persons
+2017,MANIPUR,Number of Suicides,43.0,Persons
+2017,MEGHALAYA,Number of Suicides,165.0,Persons
+2017,MIZORAM,Number of Suicides,91.0,Persons
+2017,NAGALAND,Number of Suicides,33.0,Persons
+2017,ODISHA,Number of Suicides,4493.0,Persons
+2017,PUNJAB,Number of Suicides,1481.0,Persons
+2017,RAJASTHAN,Number of Suicides,3838.0,Persons
+2017,SIKKIM,Number of Suicides,214.0,Persons
+2017,TAMIL NADU,Number of Suicides,14459.0,Persons
+2017,TELANGANA,Number of Suicides,7620.0,Persons
+2017,TRIPURA,Number of Suicides,692.0,Persons
+2017,UTTAR PRADESH,Number of Suicides,4426.0,Persons
+2017,UTTARAKHAND,Number of Suicides,331.0,Persons
+2017,WEST BENGAL,Number of Suicides,12014.0,Persons
+2022,ANDHRA PRADESH,Number of Suicides,8908.0,Persons
+2022,ARUNACHAL PRADESH,Number of Suicides,149.0,Persons
+2022,ASSAM,Number of Suicides,3320.0,Persons
+2022,BIHAR,Number of Suicides,702.0,Persons
+2022,CHHATTISGARH,Number of Suicides,8446.0,Persons
+2022,GOA,Number of Suicides,302.0,Persons
+2022,GUJARAT,Number of Suicides,9002.0,Persons
+2022,HARYANA,Number of Suicides,3783.0,Persons
+2022,HIMACHAL PRADESH,Number of Suicides,644.0,Persons
+2022,JHARKHAND,Number of Suicides,2181.0,Persons
+2022,KARNATAKA,Number of Suicides,13606.0,Persons
+2022,KERALA,Number of Suicides,10162.0,Persons
+2022,MADHYA PRADESH,Number of Suicides,15386.0,Persons
+2022,MAHARASHTRA,Number of Suicides,22746.0,Persons
+2022,MANIPUR,Number of Suicides,26.0,Persons
+2022,MEGHALAYA,Number of Suicides,213.0,Persons
+2022,MIZORAM,Number of Suicides,153.0,Persons
+2022,NAGALAND,Number of Suicides,49.0,Persons
+2022,ODISHA,Number of Suicides,6140.0,Persons
+2022,PUNJAB,Number of Suicides,2441.0,Persons
+2022,RAJASTHAN,Number of Suicides,5343.0,Persons
+2022,SIKKIM,Number of Suicides,293.0,Persons
+2022,TAMIL NADU,Number of Suicides,19834.0,Persons
+2022,TELANGANA,Number of Suicides,9980.0,Persons
+2022,TRIPURA,Number of Suicides,713.0,Persons
+2022,UTTAR PRADESH,Number of Suicides,8176.0,Persons
+2022,UTTARAKHAND,Number of Suicides,814.0,Persons
+2022,WEST BENGAL,Number of Suicides,12669.0,Persons
+2018,ANDHRA PRADESH,Number of Suicides,5319.0,Persons
+2018,ARUNACHAL PRADESH,Number of Suicides,132.0,Persons
+2018,ASSAM,Number of Suicides,2379.0,Persons
+2018,BIHAR,Number of Suicides,443.0,Persons
+2018,CHHATTISGARH,Number of Suicides,7046.0,Persons
+2018,GOA,Number of Suicides,256.0,Persons
+2018,GUJARAT,Number of Suicides,7793.0,Persons
+2018,HARYANA,Number of Suicides,3547.0,Persons
+2018,HIMACHAL PRADESH,Number of Suicides,740.0,Persons
+2018,JAMMU & KASHMIR,Number of Suicides,330.0,Persons
+2018,JHARKHAND,Number of Suicides,1317.0,Persons
+2018,KARNATAKA,Number of Suicides,11561.0,Persons
+2018,KERALA,Number of Suicides,8237.0,Persons
+2018,MADHYA PRADESH,Number of Suicides,11775.0,Persons
+2018,MAHARASHTRA,Number of Suicides,17972.0,Persons
+2018,MANIPUR,Number of Suicides,52.0,Persons
+2018,MEGHALAYA,Number of Suicides,189.0,Persons
+2018,MIZORAM,Number of Suicides,79.0,Persons
+2018,NAGALAND,Number of Suicides,36.0,Persons
+2018,ODISHA,Number of Suicides,4592.0,Persons
+2018,PUNJAB,Number of Suicides,1714.0,Persons
+2018,RAJASTHAN,Number of Suicides,4333.0,Persons
+2018,SIKKIM,Number of Suicides,199.0,Persons
+2018,TAMIL NADU,Number of Suicides,13896.0,Persons
+2018,TELANGANA,Number of Suicides,7845.0,Persons
+2018,TRIPURA,Number of Suicides,720.0,Persons
+2018,UTTAR PRADESH,Number of Suicides,4849.0,Persons
+2018,UTTARAKHAND,Number of Suicides,421.0,Persons
+2018,WEST BENGAL,Number of Suicides,13255.0,Persons
+2021,ANDHRA PRADESH,Number of Suicides,8067.0,Persons
+2021,ARUNACHAL PRADESH,Number of Suicides,160.0,Persons
+2021,ASSAM,Number of Suicides,3262.0,Persons
+2021,BIHAR,Number of Suicides,827.0,Persons
+2021,CHHATTISGARH,Number of Suicides,7828.0,Persons
+2021,GOA,Number of Suicides,321.0,Persons
+2021,GUJARAT,Number of Suicides,8789.0,Persons
+2021,HARYANA,Number of Suicides,3692.0,Persons
+2021,HIMACHAL PRADESH,Number of Suicides,889.0,Persons
+2021,JHARKHAND,Number of Suicides,1825.0,Persons
+2021,KARNATAKA,Number of Suicides,13056.0,Persons
+2021,KERALA,Number of Suicides,9549.0,Persons
+2021,MADHYA PRADESH,Number of Suicides,14965.0,Persons
+2021,MAHARASHTRA,Number of Suicides,22207.0,Persons
+2021,MANIPUR,Number of Suicides,49.0,Persons
+2021,MEGHALAYA,Number of Suicides,226.0,Persons
+2021,MIZORAM,Number of Suicides,99.0,Persons
+2021,NAGALAND,Number of Suicides,43.0,Persons
+2021,ODISHA,Number of Suicides,5651.0,Persons
+2021,PUNJAB,Number of Suicides,2600.0,Persons
+2021,RAJASTHAN,Number of Suicides,5593.0,Persons
+2021,SIKKIM,Number of Suicides,266.0,Persons
+2021,TAMIL NADU,Number of Suicides,18925.0,Persons
+2021,TELANGANA,Number of Suicides,10171.0,Persons
+2021,TRIPURA,Number of Suicides,771.0,Persons
+2021,UTTAR PRADESH,Number of Suicides,5932.0,Persons
+2021,UTTARAKHAND,Number of Suicides,717.0,Persons
+2021,WEST BENGAL,Number of Suicides,13500.0,Persons
+2016,ANDHRA PRADESH,% Share,4.6,Percent
+2016,ARUNACHAL PRADESH,% Share,0.1,Percent
+2016,ASSAM,% Share,2.3,Percent
+2016,BIHAR,% Share,0.3,Percent
+2016,CHHATTISGARH,% Share,5.1,Percent
+2016,GOA,% Share,0.2,Percent
+2016,GUJARAT,% Share,5.9,Percent
+2016,HARYANA,% Share,2.8,Percent
+2016,HIMACHAL PRADESH,% Share,0.5,Percent
+2016,JAMMU & KASHMIR,% Share,0.3,Percent
+2016,JHARKHAND,% Share,1.0,Percent
+2016,KARNATAKA,% Share,8.2,Percent
+2016,KERALA,% Share,5.9,Percent
+2016,MADHYA PRADESH,% Share,8.0,Percent
+2016,MAHARASHTRA,% Share,13.1,Percent
+2016,MANIPUR,% Share,0.0,Percent
+2016,MEGHALAYA,% Share,0.1,Percent
+2016,MIZORAM,% Share,0.1,Percent
+2016,NAGALAND,% Share,0.0,Percent
+2016,ODISHA,% Share,3.0,Percent
+2016,PUNJAB,% Share,1.1,Percent
+2016,RAJASTHAN,% Share,2.8,Percent
+2016,SIKKIM,% Share,0.2,Percent
+2016,TAMIL NADU,% Share,11.6,Percent
+2016,TELANGANA,% Share,6.9,Percent
+2016,TRIPURA,% Share,0.5,Percent
+2016,UTTAR PRADESH,% Share,2.7,Percent
+2016,UTTARAKHAND,% Share,0.1,Percent
+2016,WEST BENGAL,% Share,10.3,Percent
+2015,ANDHRA PRADESH,% Share,4.7,Percent
+2015,ARUNACHAL PRADESH,% Share,0.1,Percent
+2015,ASSAM,% Share,2.4,Percent
+2015,BIHAR,% Share,0.4,Percent
+2015,CHHATTISGARH,% Share,5.3,Percent
+2015,GOA,% Share,0.2,Percent
+2015,GUJARAT,% Share,5.4,Percent
+2015,HARYANA,% Share,2.7,Percent
+2015,HIMACHAL PRADESH,% Share,0.4,Percent
+2015,JAMMU & KASHMIR,% Share,0.3,Percent
+2015,JHARKHAND,% Share,0.6,Percent
+2015,KARNATAKA,% Share,8.1,Percent
+2015,KERALA,% Share,5.8,Percent
+2015,MADHYA PRADESH,% Share,7.7,Percent
+2015,MAHARASHTRA,% Share,12.7,Percent
+2015,MANIPUR,% Share,0.0,Percent
+2015,MEGHALAYA,% Share,0.1,Percent
+2015,MIZORAM,% Share,0.1,Percent
+2015,NAGALAND,% Share,0.0,Percent
+2015,ODISHA,% Share,3.1,Percent
+2015,PUNJAB,% Share,0.8,Percent
+2015,RAJASTHAN,% Share,2.6,Percent
+2015,SIKKIM,% Share,0.2,Percent
+2015,TAMIL NADU,% Share,11.8,Percent
+2015,TELANGANA,% Share,7.6,Percent
+2015,TRIPURA,% Share,0.6,Percent
+2015,UTTAR PRADESH,% Share,2.9,Percent
+2015,UTTARAKHAND,% Share,0.4,Percent
+2015,WEST BENGAL,% Share,10.9,Percent
+2020,ANDHRA PRADESH,% Share,4.6,Percent
+2020,ARUNACHAL PRADESH,% Share,0.1,Percent
+2020,ASSAM,% Share,2.1,Percent
+2020,BIHAR,% Share,0.5,Percent
+2020,CHHATTISGARH,% Share,5.0,Percent
+2020,GOA,% Share,0.2,Percent
+2020,GUJARAT,% Share,5.3,Percent
+2020,HARYANA,% Share,2.6,Percent
+2020,HIMACHAL PRADESH,% Share,0.6,Percent
+2020,JHARKHAND,% Share,1.4,Percent
+2020,KARNATAKA,% Share,8.0,Percent
+2020,KERALA,% Share,5.6,Percent
+2020,MADHYA PRADESH,% Share,9.5,Percent
+2020,MAHARASHTRA,% Share,13.0,Percent
+2020,MANIPUR,% Share,0.0,Percent
+2020,MEGHALAYA,% Share,0.1,Percent
+2020,MIZORAM,% Share,0.1,Percent
+2020,NAGALAND,% Share,0.0,Percent
+2020,ODISHA,% Share,3.6,Percent
+2020,PUNJAB,% Share,1.7,Percent
+2020,RAJASTHAN,% Share,3.7,Percent
+2020,SIKKIM,% Share,0.2,Percent
+2020,TAMIL NADU,% Share,11.0,Percent
+2020,TELANGANA,% Share,5.3,Percent
+2020,TRIPURA,% Share,0.6,Percent
+2020,UTTAR PRADESH,% Share,3.1,Percent
+2020,UTTARAKHAND,% Share,0.6,Percent
+2020,WEST BENGAL,% Share,8.6,Percent
+2019,ANDHRA PRADESH,% Share,4.6,Percent
+2019,ARUNACHAL PRADESH,% Share,0.1,Percent
+2019,ASSAM,% Share,1.7,Percent
+2019,BIHAR,% Share,0.5,Percent
+2019,CHHATTISGARH,% Share,5.5,Percent
+2019,GOA,% Share,0.2,Percent
+2019,GUJARAT,% Share,5.5,Percent
+2019,HARYANA,% Share,3.0,Percent
+2019,HIMACHAL PRADESH,% Share,0.4,Percent
+2019,JAMMU & KASHMIR,% Share,0.2,Percent
+2019,JHARKHAND,% Share,1.2,Percent
+2019,KARNATAKA,% Share,8.1,Percent
+2019,KERALA,% Share,6.1,Percent
+2019,MADHYA PRADESH,% Share,9.0,Percent
+2019,MAHARASHTRA,% Share,13.6,Percent
+2019,MANIPUR,% Share,0.0,Percent
+2019,MEGHALAYA,% Share,0.1,Percent
+2019,MIZORAM,% Share,0.1,Percent
+2019,NAGALAND,% Share,0.0,Percent
+2019,ODISHA,% Share,3.3,Percent
+2019,PUNJAB,% Share,1.7,Percent
+2019,RAJASTHAN,% Share,3.3,Percent
+2019,SIKKIM,% Share,0.2,Percent
+2019,TAMIL NADU,% Share,9.7,Percent
+2019,TELANGANA,% Share,5.5,Percent
+2019,TRIPURA,% Share,0.5,Percent
+2019,UTTAR PRADESH,% Share,3.9,Percent
+2019,UTTARAKHAND,% Share,0.4,Percent
+2019,WEST BENGAL,% Share,9.1,Percent
+2017,ANDHRA PRADESH,% Share,4.1,Percent
+2017,ARUNACHAL PRADESH,% Share,0.1,Percent
+2017,ASSAM,% Share,1.8,Percent
+2017,BIHAR,% Share,0.3,Percent
+2017,CHHATTISGARH,% Share,4.9,Percent
+2017,GOA,% Share,0.2,Percent
+2017,GUJARAT,% Share,5.7,Percent
+2017,HARYANA,% Share,2.6,Percent
+2017,HIMACHAL PRADESH,% Share,0.4,Percent
+2017,JAMMU & KASHMIR,% Share,0.2,Percent
+2017,JHARKHAND,% Share,0.9,Percent
+2017,KARNATAKA,% Share,9.0,Percent
+2017,KERALA,% Share,6.1,Percent
+2017,MADHYA PRADESH,% Share,9.1,Percent
+2017,MAHARASHTRA,% Share,13.6,Percent
+2017,MANIPUR,% Share,0.0,Percent
+2017,MEGHALAYA,% Share,0.1,Percent
+2017,MIZORAM,% Share,0.1,Percent
+2017,NAGALAND,% Share,0.0,Percent
+2017,ODISHA,% Share,3.5,Percent
+2017,PUNJAB,% Share,1.1,Percent
+2017,RAJASTHAN,% Share,3.0,Percent
+2017,SIKKIM,% Share,0.2,Percent
+2017,TAMIL NADU,% Share,11.1,Percent
+2017,TELANGANA,% Share,5.9,Percent
+2017,TRIPURA,% Share,0.5,Percent
+2017,UTTAR PRADESH,% Share,3.4,Percent
+2017,UTTARAKHAND,% Share,0.3,Percent
+2017,WEST BENGAL,% Share,9.2,Percent
+2022,ANDHRA PRADESH,% Share,5.2,Percent
+2022,ARUNACHAL PRADESH,% Share,0.1,Percent
+2022,ASSAM,% Share,1.9,Percent
+2022,BIHAR,% Share,0.4,Percent
+2022,CHHATTISGARH,% Share,4.9,Percent
+2022,GOA,% Share,0.2,Percent
+2022,GUJARAT,% Share,5.3,Percent
+2022,HARYANA,% Share,2.2,Percent
+2022,HIMACHAL PRADESH,% Share,0.4,Percent
+2022,JHARKHAND,% Share,1.3,Percent
+2022,KARNATAKA,% Share,8.0,Percent
+2022,KERALA,% Share,5.9,Percent
+2022,MADHYA PRADESH,% Share,9.0,Percent
+2022,MAHARASHTRA,% Share,13.3,Percent
+2022,MANIPUR,% Share,0.0,Percent
+2022,MEGHALAYA,% Share,0.1,Percent
+2022,MIZORAM,% Share,0.1,Percent
+2022,NAGALAND,% Share,0.0,Percent
+2022,ODISHA,% Share,3.6,Percent
+2022,PUNJAB,% Share,1.4,Percent
+2022,RAJASTHAN,% Share,3.1,Percent
+2022,SIKKIM,% Share,0.2,Percent
+2022,TAMIL NADU,% Share,11.6,Percent
+2022,TELANGANA,% Share,5.8,Percent
+2022,TRIPURA,% Share,0.4,Percent
+2022,UTTAR PRADESH,% Share,4.8,Percent
+2022,UTTARAKHAND,% Share,0.5,Percent
+2022,WEST BENGAL,% Share,7.4,Percent
+2018,ANDHRA PRADESH,% Share,4.0,Percent
+2018,ARUNACHAL PRADESH,% Share,0.1,Percent
+2018,ASSAM,% Share,1.8,Percent
+2018,BIHAR,% Share,0.3,Percent
+2018,CHHATTISGARH,% Share,5.2,Percent
+2018,GOA,% Share,0.2,Percent
+2018,GUJARAT,% Share,5.8,Percent
+2018,HARYANA,% Share,2.6,Percent
+2018,HIMACHAL PRADESH,% Share,0.6,Percent
+2018,JAMMU & KASHMIR,% Share,0.2,Percent
+2018,JHARKHAND,% Share,1.0,Percent
+2018,KARNATAKA,% Share,8.6,Percent
+2018,KERALA,% Share,6.1,Percent
+2018,MADHYA PRADESH,% Share,8.8,Percent
+2018,MAHARASHTRA,% Share,13.4,Percent
+2018,MANIPUR,% Share,0.0,Percent
+2018,MEGHALAYA,% Share,0.1,Percent
+2018,MIZORAM,% Share,0.1,Percent
+2018,NAGALAND,% Share,0.0,Percent
+2018,ODISHA,% Share,3.4,Percent
+2018,PUNJAB,% Share,1.3,Percent
+2018,RAJASTHAN,% Share,3.2,Percent
+2018,SIKKIM,% Share,0.1,Percent
+2018,TAMIL NADU,% Share,10.3,Percent
+2018,TELANGANA,% Share,5.8,Percent
+2018,TRIPURA,% Share,0.5,Percent
+2018,UTTAR PRADESH,% Share,3.6,Percent
+2018,UTTARAKHAND,% Share,0.3,Percent
+2018,WEST BENGAL,% Share,9.9,Percent
+2021,ANDHRA PRADESH,% Share,4.9,Percent
+2021,ARUNACHAL PRADESH,% Share,0.1,Percent
+2021,ASSAM,% Share,2.0,Percent
+2021,BIHAR,% Share,0.5,Percent
+2021,CHHATTISGARH,% Share,4.8,Percent
+2021,GOA,% Share,0.2,Percent
+2021,GUJARAT,% Share,5.4,Percent
+2021,HARYANA,% Share,2.3,Percent
+2021,HIMACHAL PRADESH,% Share,0.5,Percent
+2021,JHARKHAND,% Share,1.1,Percent
+2021,KARNATAKA,% Share,8.0,Percent
+2021,KERALA,% Share,5.8,Percent
+2021,MADHYA PRADESH,% Share,9.1,Percent
+2021,MAHARASHTRA,% Share,13.5,Percent
+2021,MANIPUR,% Share,0.0,Percent
+2021,MEGHALAYA,% Share,0.1,Percent
+2021,MIZORAM,% Share,0.1,Percent
+2021,NAGALAND,% Share,0.0,Percent
+2021,ODISHA,% Share,3.4,Percent
+2021,PUNJAB,% Share,1.6,Percent
+2021,RAJASTHAN,% Share,3.4,Percent
+2021,SIKKIM,% Share,0.2,Percent
+2021,TAMIL NADU,% Share,11.5,Percent
+2021,TELANGANA,% Share,6.2,Percent
+2021,TRIPURA,% Share,0.5,Percent
+2021,UTTAR PRADESH,% Share,3.6,Percent
+2021,UTTARAKHAND,% Share,0.4,Percent
+2021,WEST BENGAL,% Share,8.2,Percent
+2016,ANDHRA PRADESH,Population (Lakh),517.43,Lakh
+2016,ARUNACHAL PRADESH,Population (Lakh),13.18,Lakh
+2016,ASSAM,Population (Lakh),325.77,Lakh
+2016,BIHAR,Population (Lakh),1043.03,Lakh
+2016,CHHATTISGARH,Population (Lakh),259.88,Lakh
+2016,GOA,Population (Lakh),19.85,Lakh
+2016,GUJARAT,Population (Lakh),630.75,Lakh
+2016,HARYANA,Population (Lakh),276.12,Lakh
+2016,HIMACHAL PRADESH,Population (Lakh),71.15,Lakh
+2016,JAMMU & KASHMIR,Population (Lakh),124.63,Lakh
+2016,JHARKHAND,Population (Lakh),338.03,Lakh
+2016,KARNATAKA,Population (Lakh),625.68,Lakh
+2016,KERALA,Population (Lakh),357.45,Lakh
+2016,MADHYA PRADESH,Population (Lakh),782.55,Lakh
+2016,MAHARASHTRA,Population (Lakh),1205.54,Lakh
+2016,MANIPUR,Population (Lakh),26.01,Lakh
+2016,MEGHALAYA,Population (Lakh),27.84,Lakh
+2016,MIZORAM,Population (Lakh),10.67,Lakh
+2016,NAGALAND,Population (Lakh),23.89,Lakh
+2016,ODISHA,Population (Lakh),425.93,Lakh
+2016,PUNJAB,Population (Lakh),292.01,Lakh
+2016,RAJASTHAN,Population (Lakh),732.76,Lakh
+2016,SIKKIM,Population (Lakh),6.49,Lakh
+2016,TAMIL NADU,Population (Lakh),695.18,Lakh
+2016,TELANGANA,Population (Lakh),368.53,Lakh
+2016,TRIPURA,Population (Lakh),38.4,Lakh
+2016,UTTAR PRADESH,Population (Lakh),2192.39,Lakh
+2016,UTTARAKHAND,Population (Lakh),106.77,Lakh
+2016,WEST BENGAL,Population (Lakh),938.27,Lakh
+2015,ANDHRA PRADESH,Population (Lakh),0.0,Lakh
+2015,ARUNACHAL PRADESH,Population (Lakh),13.0,Lakh
+2015,ASSAM,Population (Lakh),322.0,Lakh
+2015,BIHAR,Population (Lakh),1031.4,Lakh
+2015,CHHATTISGARH,Population (Lakh),256.6,Lakh
+2015,GOA,Population (Lakh),19.7,Lakh
+2015,GUJARAT,Population (Lakh),623.3,Lakh
+2015,HARYANA,Population (Lakh),272.2,Lakh
+2015,HIMACHAL PRADESH,Population (Lakh),70.6,Lakh
+2015,JAMMU & KASHMIR,Population (Lakh),123.4,Lakh
+2015,JHARKHAND,Population (Lakh),333.5,Lakh
+2015,KARNATAKA,Population (Lakh),619.9,Lakh
+2015,KERALA,Population (Lakh),355.5,Lakh
+2015,MADHYA PRADESH,Population (Lakh),771.3,Lakh
+2015,MAHARASHTRA,Population (Lakh),1191.4,Lakh
+2015,MANIPUR,Population (Lakh),25.7,Lakh
+2015,MEGHALAYA,Population (Lakh),27.5,Lakh
+2015,MIZORAM,Population (Lakh),10.6,Lakh
+2015,NAGALAND,Population (Lakh),23.6,Lakh
+2015,ODISHA,Population (Lakh),422.5,Lakh
+2015,PUNJAB,Population (Lakh),289.4,Lakh
+2015,RAJASTHAN,Population (Lakh),723.1,Lakh
+2015,SIKKIM,Population (Lakh),6.4,Lakh
+2015,TAMIL NADU,Population (Lakh),691.6,Lakh
+2015,TELANGANA,Population (Lakh),0.0,Lakh
+2015,TRIPURA,Population (Lakh),38.0,Lakh
+2015,UTTAR PRADESH,Population (Lakh),2158.4,Lakh
+2015,UTTARAKHAND,Population (Lakh),105.4,Lakh
+2015,WEST BENGAL,Population (Lakh),930.0,Lakh
+2020,ANDHRA PRADESH,Population (Lakh),526.0,Lakh
+2020,ARUNACHAL PRADESH,Population (Lakh),15.2,Lakh
+2020,ASSAM,Population (Lakh),347.9,Lakh
+2020,BIHAR,Population (Lakh),1219.0,Lakh
+2020,CHHATTISGARH,Population (Lakh),292.4,Lakh
+2020,GOA,Population (Lakh),15.5,Lakh
+2020,GUJARAT,Population (Lakh),691.7,Lakh
+2020,HARYANA,Population (Lakh),292.1,Lakh
+2020,HIMACHAL PRADESH,Population (Lakh),73.6,Lakh
+2020,JHARKHAND,Population (Lakh),381.2,Lakh
+2020,KARNATAKA,Population (Lakh),665.0,Lakh
+2020,KERALA,Population (Lakh),353.7,Lakh
+2020,MADHYA PRADESH,Population (Lakh),837.6,Lakh
+2020,MAHARASHTRA,Population (Lakh),1236.8,Lakh
+2020,MANIPUR,Population (Lakh),31.4,Lakh
+2020,MEGHALAYA,Population (Lakh),32.6,Lakh
+2020,MIZORAM,Population (Lakh),12.1,Lakh
+2020,NAGALAND,Population (Lakh),21.8,Lakh
+2020,ODISHA,Population (Lakh),454.7,Lakh
+2020,PUNJAB,Population (Lakh),301.8,Lakh
+2020,RAJASTHAN,Population (Lakh),786.1,Lakh
+2020,SIKKIM,Population (Lakh),6.7,Lakh
+2020,TAMIL NADU,Population (Lakh),761.7,Lakh
+2020,TELANGANA,Population (Lakh),375.4,Lakh
+2020,TRIPURA,Population (Lakh),40.4,Lakh
+2020,UTTAR PRADESH,Population (Lakh),2289.3,Lakh
+2020,UTTARAKHAND,Population (Lakh),113.1,Lakh
+2020,WEST BENGAL,Population (Lakh),977.2,Lakh
+2019,ANDHRA PRADESH,Population (Lakh),523.2,Lakh
+2019,ARUNACHAL PRADESH,Population (Lakh),15.1,Lakh
+2019,ASSAM,Population (Lakh),344.2,Lakh
+2019,BIHAR,Population (Lakh),1201.1,Lakh
+2019,CHHATTISGARH,Population (Lakh),288.5,Lakh
+2019,GOA,Population (Lakh),15.4,Lakh
+2019,GUJARAT,Population (Lakh),682.5,Lakh
+2019,HARYANA,Population (Lakh),288.1,Lakh
+2019,HIMACHAL PRADESH,Population (Lakh),73.2,Lakh
+2019,JAMMU & KASHMIR,Population (Lakh),135.3,Lakh
+2019,JHARKHAND,Population (Lakh),375.8,Lakh
+2019,KARNATAKA,Population (Lakh),659.7,Lakh
+2019,KERALA,Population (Lakh),351.9,Lakh
+2019,MADHYA PRADESH,Population (Lakh),826.1,Lakh
+2019,MAHARASHTRA,Population (Lakh),1225.3,Lakh
+2019,MANIPUR,Population (Lakh),31.1,Lakh
+2019,MEGHALAYA,Population (Lakh),32.3,Lakh
+2019,MIZORAM,Population (Lakh),12.0,Lakh
+2019,NAGALAND,Population (Lakh),21.6,Lakh
+2019,ODISHA,Population (Lakh),437.3,Lakh
+2019,PUNJAB,Population (Lakh),299.4,Lakh
+2019,RAJASTHAN,Population (Lakh),776.0,Lakh
+2019,SIKKIM,Population (Lakh),6.7,Lakh
+2019,TAMIL NADU,Population (Lakh),758.1,Lakh
+2019,TELANGANA,Population (Lakh),372.8,Lakh
+2019,TRIPURA,Population (Lakh),40.0,Lakh
+2019,UTTAR PRADESH,Population (Lakh),2259.7,Lakh
+2019,UTTARAKHAND,Population (Lakh),111.8,Lakh
+2019,WEST BENGAL,Population (Lakh),971.1,Lakh
+2017,ANDHRA PRADESH,Population (Lakh),517.5,Lakh
+2017,ARUNACHAL PRADESH,Population (Lakh),14.8,Lakh
+2017,ASSAM,Population (Lakh),336.7,Lakh
+2017,BIHAR,Population (Lakh),1165.5,Lakh
+2017,CHHATTISGARH,Population (Lakh),280.8,Lakh
+2017,GOA,Population (Lakh),15.2,Lakh
+2017,GUJARAT,Population (Lakh),663.9,Lakh
+2017,HARYANA,Population (Lakh),280.0,Lakh
+2017,HIMACHAL PRADESH,Population (Lakh),72.2,Lakh
+2017,JAMMU & KASHMIR,Population (Lakh),133.2,Lakh
+2017,JHARKHAND,Population (Lakh),365.1,Lakh
+2017,KARNATAKA,Population (Lakh),649.3,Lakh
+2017,KERALA,Population (Lakh),348.2,Lakh
+2017,MADHYA PRADESH,Population (Lakh),803.3,Lakh
+2017,MAHARASHTRA,Population (Lakh),1202.5,Lakh
+2017,MANIPUR,Population (Lakh),30.5,Lakh
+2017,MEGHALAYA,Population (Lakh),11.7,Lakh
+2017,MIZORAM,Population (Lakh),31.7,Lakh
+2017,NAGALAND,Population (Lakh),21.1,Lakh
+2017,ODISHA,Population (Lakh),433.7,Lakh
+2017,PUNJAB,Population (Lakh),294.6,Lakh
+2017,RAJASTHAN,Population (Lakh),755.8,Lakh
+2017,SIKKIM,Population (Lakh),6.5,Lakh
+2017,TAMIL NADU,Population (Lakh),751.1,Lakh
+2017,TELANGANA,Population (Lakh),367.8,Lakh
+2017,TRIPURA,Population (Lakh),39.2,Lakh
+2017,UTTAR PRADESH,Population (Lakh),2200.4,Lakh
+2017,UTTARAKHAND,Population (Lakh),109.3,Lakh
+2017,WEST BENGAL,Population (Lakh),958.9,Lakh
+2022,ANDHRA PRADESH,Population (Lakh),530.3,Lakh
+2022,ARUNACHAL PRADESH,Population (Lakh),15.5,Lakh
+2022,ASSAM,Population (Lakh),354.9,Lakh
+2022,BIHAR,Population (Lakh),1255.3,Lakh
+2022,CHHATTISGARH,Population (Lakh),299.5,Lakh
+2022,GOA,Population (Lakh),15.7,Lakh
+2022,GUJARAT,Population (Lakh),709.3,Lakh
+2022,HARYANA,Population (Lakh),299.7,Lakh
+2022,HIMACHAL PRADESH,Population (Lakh),74.4,Lakh
+2022,JHARKHAND,Population (Lakh),391.4,Lakh
+2022,KARNATAKA,Population (Lakh),674.1,Lakh
+2022,KERALA,Population (Lakh),356.8,Lakh
+2022,MADHYA PRADESH,Population (Lakh),858.9,Lakh
+2022,MAHARASHTRA,Population (Lakh),1257.4,Lakh
+2022,MANIPUR,Population (Lakh),32.0,Lakh
+2022,MEGHALAYA,Population (Lakh),33.3,Lakh
+2022,MIZORAM,Population (Lakh),12.3,Lakh
+2022,NAGALAND,Population (Lakh),22.2,Lakh
+2022,ODISHA,Population (Lakh),460.8,Lakh
+2022,PUNJAB,Population (Lakh),306.0,Lakh
+2022,RAJASTHAN,Population (Lakh),804.4,Lakh
+2022,SIKKIM,Population (Lakh),6.8,Lakh
+2022,TAMIL NADU,Population (Lakh),767.1,Lakh
+2022,TELANGANA,Population (Lakh),379.5,Lakh
+2022,TRIPURA,Population (Lakh),41.2,Lakh
+2022,UTTAR PRADESH,Population (Lakh),2340.9,Lakh
+2022,UTTARAKHAND,Population (Lakh),115.6,Lakh
+2022,WEST BENGAL,Population (Lakh),987.6,Lakh
+2018,ANDHRA PRADESH,Population (Lakh),520.3,Lakh
+2018,ARUNACHAL PRADESH,Population (Lakh),14.9,Lakh
+2018,ASSAM,Population (Lakh),340.4,Lakh
+2018,BIHAR,Population (Lakh),1183.3,Lakh
+2018,CHHATTISGARH,Population (Lakh),284.7,Lakh
+2018,GOA,Population (Lakh),15.3,Lakh
+2018,GUJARAT,Population (Lakh),673.2,Lakh
+2018,HARYANA,Population (Lakh),284.0,Lakh
+2018,HIMACHAL PRADESH,Population (Lakh),72.7,Lakh
+2018,JAMMU & KASHMIR,Population (Lakh),134.3,Lakh
+2018,JHARKHAND,Population (Lakh),370.5,Lakh
+2018,KARNATAKA,Population (Lakh),654.5,Lakh
+2018,KERALA,Population (Lakh),350.0,Lakh
+2018,MADHYA PRADESH,Population (Lakh),814.7,Lakh
+2018,MAHARASHTRA,Population (Lakh),1213.9,Lakh
+2018,MANIPUR,Population (Lakh),30.8,Lakh
+2018,MEGHALAYA,Population (Lakh),11.8,Lakh
+2018,MIZORAM,Population (Lakh),32.0,Lakh
+2018,NAGALAND,Population (Lakh),21.3,Lakh
+2018,ODISHA,Population (Lakh),435.5,Lakh
+2018,PUNJAB,Population (Lakh),297.0,Lakh
+2018,RAJASTHAN,Population (Lakh),765.9,Lakh
+2018,SIKKIM,Population (Lakh),6.6,Lakh
+2018,TAMIL NADU,Population (Lakh),754.6,Lakh
+2018,TELANGANA,Population (Lakh),370.3,Lakh
+2018,TRIPURA,Population (Lakh),39.6,Lakh
+2018,UTTAR PRADESH,Population (Lakh),2230.0,Lakh
+2018,UTTARAKHAND,Population (Lakh),110.6,Lakh
+2018,WEST BENGAL,Population (Lakh),965.0,Lakh
+2021,ANDHRA PRADESH,Population (Lakh),528.49,Lakh
+2021,ARUNACHAL PRADESH,Population (Lakh),15.37,Lakh
+2021,ASSAM,Population (Lakh),351.55,Lakh
+2021,BIHAR,Population (Lakh),1236.95,Lakh
+2021,CHHATTISGARH,Population (Lakh),296.07,Lakh
+2021,GOA,Population (Lakh),15.61,Lakh
+2021,GUJARAT,Population (Lakh),700.75,Lakh
+2021,HARYANA,Population (Lakh),296.04,Lakh
+2021,HIMACHAL PRADESH,Population (Lakh),74.06,Lakh
+2021,JHARKHAND,Population (Lakh),386.37,Lakh
+2021,KARNATAKA,Population (Lakh),669.86,Lakh
+2021,KERALA,Population (Lakh),355.37,Lakh
+2021,MADHYA PRADESH,Population (Lakh),848.6,Lakh
+2021,MAHARASHTRA,Population (Lakh),1247.62,Lakh
+2021,MANIPUR,Population (Lakh),31.72,Lakh
+2021,MEGHALAYA,Population (Lakh),32.95,Lakh
+2021,MIZORAM,Population (Lakh),12.19,Lakh
+2021,NAGALAND,Population (Lakh),21.98,Lakh
+2021,ODISHA,Population (Lakh),457.93,Lakh
+2021,PUNJAB,Population (Lakh),304.04,Lakh
+2021,RAJASTHAN,Population (Lakh),795.72,Lakh
+2021,SIKKIM,Population (Lakh),6.78,Lakh
+2021,TAMIL NADU,Population (Lakh),764.79,Lakh
+2021,TELANGANA,Population (Lakh),377.71,Lakh
+2021,TRIPURA,Population (Lakh),40.81,Lakh
+2021,UTTAR PRADESH,Population (Lakh),2317.04,Lakh
+2021,UTTARAKHAND,Population (Lakh),114.39,Lakh
+2021,WEST BENGAL,Population (Lakh),982.85,Lakh
+2016,ANDHRA PRADESH,Rate of Suicides,11.7,Rate
+2016,ARUNACHAL PRADESH,Rate of Suicides,9.2,Rate
+2016,ASSAM,Rate of Suicides,9.3,Rate
+2016,BIHAR,Rate of Suicides,0.4,Rate
+2016,CHHATTISGARH,Rate of Suicides,25.8,Rate
+2016,GOA,Rate of Suicides,13.8,Rate
+2016,GUJARAT,Rate of Suicides,12.3,Rate
+2016,HARYANA,Rate of Suicides,13.3,Rate
+2016,HIMACHAL PRADESH,Rate of Suicides,9.0,Rate
+2016,JAMMU & KASHMIR,Rate of Suicides,2.6,Rate
+2016,JHARKHAND,Rate of Suicides,3.8,Rate
+2016,KARNATAKA,Rate of Suicides,17.1,Rate
+2016,KERALA,Rate of Suicides,21.6,Rate
+2016,MADHYA PRADESH,Rate of Suicides,13.3,Rate
+2016,MAHARASHTRA,Rate of Suicides,14.3,Rate
+2016,MANIPUR,Rate of Suicides,1.4,Rate
+2016,MEGHALAYA,Rate of Suicides,6.0,Rate
+2016,MIZORAM,Rate of Suicides,11.6,Rate
+2016,NAGALAND,Rate of Suicides,1.4,Rate
+2016,ODISHA,Rate of Suicides,9.2,Rate
+2016,PUNJAB,Rate of Suicides,4.9,Rate
+2016,RAJASTHAN,Rate of Suicides,5.0,Rate
+2016,SIKKIM,Rate of Suicides,40.5,Rate
+2016,TAMIL NADU,Rate of Suicides,21.8,Rate
+2016,TELANGANA,Rate of Suicides,24.5,Rate
+2016,TRIPURA,Rate of Suicides,17.6,Rate
+2016,UTTAR PRADESH,Rate of Suicides,1.6,Rate
+2016,UTTARAKHAND,Rate of Suicides,1.4,Rate
+2016,WEST BENGAL,Rate of Suicides,14.3,Rate
+2015,ANDHRA PRADESH,Rate of Suicides,12.1,Rate
+2015,ARUNACHAL PRADESH,Rate of Suicides,10.4,Rate
+2015,ASSAM,Rate of Suicides,10.0,Rate
+2015,BIHAR,Rate of Suicides,0.5,Rate
+2015,CHHATTISGARH,Rate of Suicides,27.7,Rate
+2015,GOA,Rate of Suicides,15.4,Rate
+2015,GUJARAT,Rate of Suicides,11.6,Rate
+2015,HARYANA,Rate of Suicides,13.0,Rate
+2015,HIMACHAL PRADESH,Rate of Suicides,7.7,Rate
+2015,JAMMU & KASHMIR,Rate of Suicides,3.0,Rate
+2015,JHARKHAND,Rate of Suicides,2.5,Rate
+2015,KARNATAKA,Rate of Suicides,17.4,Rate
+2015,KERALA,Rate of Suicides,21.6,Rate
+2015,MADHYA PRADESH,Rate of Suicides,13.3,Rate
+2015,MAHARASHTRA,Rate of Suicides,14.2,Rate
+2015,MANIPUR,Rate of Suicides,1.4,Rate
+2015,MEGHALAYA,Rate of Suicides,6.2,Rate
+2015,MIZORAM,Rate of Suicides,11.7,Rate
+2015,NAGALAND,Rate of Suicides,0.9,Rate
+2015,ODISHA,Rate of Suicides,9.7,Rate
+2015,PUNJAB,Rate of Suicides,3.6,Rate
+2015,RAJASTHAN,Rate of Suicides,4.8,Rate
+2015,SIKKIM,Rate of Suicides,37.5,Rate
+2015,TAMIL NADU,Rate of Suicides,22.8,Rate
+2015,TELANGANA,Rate of Suicides,27.7,Rate
+2015,TRIPURA,Rate of Suicides,19.6,Rate
+2015,UTTAR PRADESH,Rate of Suicides,1.8,Rate
+2015,UTTARAKHAND,Rate of Suicides,4.5,Rate
+2015,WEST BENGAL,Rate of Suicides,15.7,Rate
+2020,ANDHRA PRADESH,Rate of Suicides,13.4,Rate
+2020,ARUNACHAL PRADESH,Rate of Suicides,10.5,Rate
+2020,ASSAM,Rate of Suicides,9.3,Rate
+2020,BIHAR,Rate of Suicides,0.7,Rate
+2020,CHHATTISGARH,Rate of Suicides,26.4,Rate
+2020,GOA,Rate of Suicides,19.9,Rate
+2020,GUJARAT,Rate of Suicides,11.6,Rate
+2020,HARYANA,Rate of Suicides,13.7,Rate
+2020,HIMACHAL PRADESH,Rate of Suicides,11.6,Rate
+2020,JHARKHAND,Rate of Suicides,5.6,Rate
+2020,KARNATAKA,Rate of Suicides,18.4,Rate
+2020,KERALA,Rate of Suicides,24.0,Rate
+2020,MADHYA PRADESH,Rate of Suicides,17.4,Rate
+2020,MAHARASHTRA,Rate of Suicides,16.1,Rate
+2020,MANIPUR,Rate of Suicides,1.4,Rate
+2020,MEGHALAYA,Rate of Suicides,6.9,Rate
+2020,MIZORAM,Rate of Suicides,8.9,Rate
+2020,NAGALAND,Rate of Suicides,2.2,Rate
+2020,ODISHA,Rate of Suicides,12.2,Rate
+2020,PUNJAB,Rate of Suicides,8.7,Rate
+2020,RAJASTHAN,Rate of Suicides,7.2,Rate
+2020,SIKKIM,Rate of Suicides,42.5,Rate
+2020,TAMIL NADU,Rate of Suicides,22.2,Rate
+2020,TELANGANA,Rate of Suicides,21.5,Rate
+2020,TRIPURA,Rate of Suicides,20.9,Rate
+2020,UTTAR PRADESH,Rate of Suicides,2.1,Rate
+2020,UTTARAKHAND,Rate of Suicides,8.3,Rate
+2020,WEST BENGAL,Rate of Suicides,13.4,Rate
+2019,ANDHRA PRADESH,Rate of Suicides,12.4,Rate
+2019,ARUNACHAL PRADESH,Rate of Suicides,7.4,Rate
+2019,ASSAM,Rate of Suicides,6.9,Rate
+2019,BIHAR,Rate of Suicides,0.5,Rate
+2019,CHHATTISGARH,Rate of Suicides,26.4,Rate
+2019,GOA,Rate of Suicides,16.8,Rate
+2019,GUJARAT,Rate of Suicides,11.2,Rate
+2019,HARYANA,Rate of Suicides,14.5,Rate
+2019,HIMACHAL PRADESH,Rate of Suicides,8.0,Rate
+2019,JAMMU & KASHMIR,Rate of Suicides,2.1,Rate
+2019,JHARKHAND,Rate of Suicides,4.4,Rate
+2019,KARNATAKA,Rate of Suicides,17.1,Rate
+2019,KERALA,Rate of Suicides,24.3,Rate
+2019,MADHYA PRADESH,Rate of Suicides,15.1,Rate
+2019,MAHARASHTRA,Rate of Suicides,15.4,Rate
+2019,MANIPUR,Rate of Suicides,1.9,Rate
+2019,MEGHALAYA,Rate of Suicides,6.1,Rate
+2019,MIZORAM,Rate of Suicides,5.9,Rate
+2019,NAGALAND,Rate of Suicides,1.9,Rate
+2019,ODISHA,Rate of Suicides,10.5,Rate
+2019,PUNJAB,Rate of Suicides,7.9,Rate
+2019,RAJASTHAN,Rate of Suicides,5.8,Rate
+2019,SIKKIM,Rate of Suicides,33.1,Rate
+2019,TAMIL NADU,Rate of Suicides,17.8,Rate
+2019,TELANGANA,Rate of Suicides,20.6,Rate
+2019,TRIPURA,Rate of Suicides,18.2,Rate
+2019,UTTAR PRADESH,Rate of Suicides,2.4,Rate
+2019,UTTARAKHAND,Rate of Suicides,4.6,Rate
+2019,WEST BENGAL,Rate of Suicides,13.0,Rate
+2017,ANDHRA PRADESH,Rate of Suicides,10.3,Rate
+2017,ARUNACHAL PRADESH,Rate of Suicides,6.0,Rate
+2017,ASSAM,Rate of Suicides,6.8,Rate
+2017,BIHAR,Rate of Suicides,0.3,Rate
+2017,CHHATTISGARH,Rate of Suicides,22.5,Rate
+2017,GOA,Rate of Suicides,18.0,Rate
+2017,GUJARAT,Rate of Suicides,11.2,Rate
+2017,HARYANA,Rate of Suicides,12.1,Rate
+2017,HIMACHAL PRADESH,Rate of Suicides,8.0,Rate
+2017,JAMMU & KASHMIR,Rate of Suicides,2.2,Rate
+2017,JHARKHAND,Rate of Suicides,3.3,Rate
+2017,KARNATAKA,Rate of Suicides,18.0,Rate
+2017,KERALA,Rate of Suicides,22.6,Rate
+2017,MADHYA PRADESH,Rate of Suicides,14.7,Rate
+2017,MAHARASHTRA,Rate of Suicides,14.7,Rate
+2017,MANIPUR,Rate of Suicides,1.4,Rate
+2017,MEGHALAYA,Rate of Suicides,14.1,Rate
+2017,MIZORAM,Rate of Suicides,2.9,Rate
+2017,NAGALAND,Rate of Suicides,1.6,Rate
+2017,ODISHA,Rate of Suicides,10.4,Rate
+2017,PUNJAB,Rate of Suicides,5.0,Rate
+2017,RAJASTHAN,Rate of Suicides,5.1,Rate
+2017,SIKKIM,Rate of Suicides,32.9,Rate
+2017,TAMIL NADU,Rate of Suicides,19.3,Rate
+2017,TELANGANA,Rate of Suicides,20.7,Rate
+2017,TRIPURA,Rate of Suicides,17.7,Rate
+2017,UTTAR PRADESH,Rate of Suicides,2.0,Rate
+2017,UTTARAKHAND,Rate of Suicides,3.0,Rate
+2017,WEST BENGAL,Rate of Suicides,12.5,Rate
+2022,ANDHRA PRADESH,Rate of Suicides,16.8,Rate
+2022,ARUNACHAL PRADESH,Rate of Suicides,9.6,Rate
+2022,ASSAM,Rate of Suicides,9.4,Rate
+2022,BIHAR,Rate of Suicides,0.6,Rate
+2022,CHHATTISGARH,Rate of Suicides,28.2,Rate
+2022,GOA,Rate of Suicides,19.2,Rate
+2022,GUJARAT,Rate of Suicides,12.7,Rate
+2022,HARYANA,Rate of Suicides,12.6,Rate
+2022,HIMACHAL PRADESH,Rate of Suicides,8.7,Rate
+2022,JHARKHAND,Rate of Suicides,5.6,Rate
+2022,KARNATAKA,Rate of Suicides,20.2,Rate
+2022,KERALA,Rate of Suicides,28.5,Rate
+2022,MADHYA PRADESH,Rate of Suicides,17.9,Rate
+2022,MAHARASHTRA,Rate of Suicides,18.1,Rate
+2022,MANIPUR,Rate of Suicides,0.8,Rate
+2022,MEGHALAYA,Rate of Suicides,6.4,Rate
+2022,MIZORAM,Rate of Suicides,12.4,Rate
+2022,NAGALAND,Rate of Suicides,2.2,Rate
+2022,ODISHA,Rate of Suicides,13.3,Rate
+2022,PUNJAB,Rate of Suicides,8.0,Rate
+2022,RAJASTHAN,Rate of Suicides,6.6,Rate
+2022,SIKKIM,Rate of Suicides,43.1,Rate
+2022,TAMIL NADU,Rate of Suicides,25.9,Rate
+2022,TELANGANA,Rate of Suicides,26.3,Rate
+2022,TRIPURA,Rate of Suicides,17.3,Rate
+2022,UTTAR PRADESH,Rate of Suicides,3.5,Rate
+2022,UTTARAKHAND,Rate of Suicides,7.0,Rate
+2022,WEST BENGAL,Rate of Suicides,12.8,Rate
+2018,ANDHRA PRADESH,Rate of Suicides,10.2,Rate
+2018,ARUNACHAL PRADESH,Rate of Suicides,8.9,Rate
+2018,ASSAM,Rate of Suicides,7.0,Rate
+2018,BIHAR,Rate of Suicides,0.4,Rate
+2018,CHHATTISGARH,Rate of Suicides,24.7,Rate
+2018,GOA,Rate of Suicides,16.7,Rate
+2018,GUJARAT,Rate of Suicides,11.6,Rate
+2018,HARYANA,Rate of Suicides,12.5,Rate
+2018,HIMACHAL PRADESH,Rate of Suicides,10.2,Rate
+2018,JAMMU & KASHMIR,Rate of Suicides,2.5,Rate
+2018,JHARKHAND,Rate of Suicides,3.6,Rate
+2018,KARNATAKA,Rate of Suicides,17.7,Rate
+2018,KERALA,Rate of Suicides,23.5,Rate
+2018,MADHYA PRADESH,Rate of Suicides,14.5,Rate
+2018,MAHARASHTRA,Rate of Suicides,14.8,Rate
+2018,MANIPUR,Rate of Suicides,1.7,Rate
+2018,MEGHALAYA,Rate of Suicides,16.0,Rate
+2018,MIZORAM,Rate of Suicides,2.5,Rate
+2018,NAGALAND,Rate of Suicides,1.7,Rate
+2018,ODISHA,Rate of Suicides,10.5,Rate
+2018,PUNJAB,Rate of Suicides,5.8,Rate
+2018,RAJASTHAN,Rate of Suicides,5.7,Rate
+2018,SIKKIM,Rate of Suicides,30.2,Rate
+2018,TAMIL NADU,Rate of Suicides,18.4,Rate
+2018,TELANGANA,Rate of Suicides,21.2,Rate
+2018,TRIPURA,Rate of Suicides,18.2,Rate
+2018,UTTAR PRADESH,Rate of Suicides,2.2,Rate
+2018,UTTARAKHAND,Rate of Suicides,3.8,Rate
+2018,WEST BENGAL,Rate of Suicides,13.7,Rate
+2021,ANDHRA PRADESH,Rate of Suicides,15.3,Rate
+2021,ARUNACHAL PRADESH,Rate of Suicides,10.4,Rate
+2021,ASSAM,Rate of Suicides,9.3,Rate
+2021,BIHAR,Rate of Suicides,0.7,Rate
+2021,CHHATTISGARH,Rate of Suicides,26.4,Rate
+2021,GOA,Rate of Suicides,20.6,Rate
+2021,GUJARAT,Rate of Suicides,12.5,Rate
+2021,HARYANA,Rate of Suicides,12.5,Rate
+2021,HIMACHAL PRADESH,Rate of Suicides,12.0,Rate
+2021,JHARKHAND,Rate of Suicides,4.7,Rate
+2021,KARNATAKA,Rate of Suicides,19.5,Rate
+2021,KERALA,Rate of Suicides,26.9,Rate
+2021,MADHYA PRADESH,Rate of Suicides,17.6,Rate
+2021,MAHARASHTRA,Rate of Suicides,17.8,Rate
+2021,MANIPUR,Rate of Suicides,1.5,Rate
+2021,MEGHALAYA,Rate of Suicides,6.9,Rate
+2021,MIZORAM,Rate of Suicides,8.1,Rate
+2021,NAGALAND,Rate of Suicides,2.0,Rate
+2021,ODISHA,Rate of Suicides,12.3,Rate
+2021,PUNJAB,Rate of Suicides,8.6,Rate
+2021,RAJASTHAN,Rate of Suicides,7.0,Rate
+2021,SIKKIM,Rate of Suicides,39.2,Rate
+2021,TAMIL NADU,Rate of Suicides,24.7,Rate
+2021,TELANGANA,Rate of Suicides,26.9,Rate
+2021,TRIPURA,Rate of Suicides,18.9,Rate
+2021,UTTAR PRADESH,Rate of Suicides,2.6,Rate
+2021,UTTARAKHAND,Rate of Suicides,6.3,Rate
+2021,WEST BENGAL,Rate of Suicides,13.7,Rate
