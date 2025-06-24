@@ -19,7 +19,7 @@ for year in ["2021","2022"]:
         href = link['href']
         text = link.text
 
-        #filtering on pdf's which are containg Table in the file_name
+        #filtering only pdf's and  which are containg Table in the file_name
         if re.search(r'Table.*\.pdf$', href):
             if href.endswith('.pdf'):
                 full_url = urljoin(url, href)  # make the url full, if href is relative
