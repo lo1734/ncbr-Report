@@ -7,6 +7,7 @@ This project scrapes suicide statistics PDFs from the [NCRB (National Crime Reco
 ---
 
 ## 📁 Project Structure
+```sh
 ncrb_suicides_scraper/
 │
 ├── raw/                       # For storing downloaded PDFs
@@ -26,4 +27,4 @@ ncrb_suicides_scraper/
 ├── main.py                    # Entry-point script
 ├── requirements.txt           # Dependencies
 └── README.md                  # Instructions to run the project
-
+```
