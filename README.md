@@ -16,7 +16,7 @@ This project scrapes suicide statistics PDFs from the [NCRB (National Crime Reco
 ```bash
 git clone https://github.com/lo1734/ncbr-Report.git
 cd ncbr_suicides_scraper
-
+```
 ## 📁 Project Structure
 ```sh
 ncbr_report/

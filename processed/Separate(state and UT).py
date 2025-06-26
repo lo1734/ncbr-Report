@@ -15,7 +15,6 @@ for file in os.listdir(source_dir):
         if 'table_1' in file.lower():
             shutil.move(file_path,os.path.join(State_dir,file))
             print(f"Moved from source_dir to State_dir:{file}")
-
         else:
             shutil.move(file_path,os.path.join(City_dir,file))
             print(f"Moved from source_dir to City_dir:{file}")

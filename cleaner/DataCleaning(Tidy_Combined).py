@@ -27,7 +27,7 @@ for file in all_files:
     if not stop_index.empty:
         df = df.loc[:stop_index[0] - 1]
 
-    # Drop "TOTAL" rows
+    # Drop "TOTAL States" rows
     df = df[~df.iloc[:, 1].astype(str).str.contains("TOTAL", case=False, na=False)]
 
     # Keep only rows with numeric serial numbers
